@@ -15,14 +15,3 @@ for j in range(len(song_length)):
 		start_song+=song_length[j]										#update counter
 	song.export(song_name[j])											#save and close file with user-entered details (default:MP3 format)
 
-"""
-INITIAL VERSION OF THE CODE
-=============================
-song1=audio_track[:320000]
-song2=audio_track[320001:545000]
-song3=audio_track[545000:len(audio_track)]
-song1.export("Amar Hiyar Majhe.mp3",format="mp3")
-song2.export("Jini Sokol Kajer Kaji.mp3")
-song3.export("Pinakete Lage Tonkar.mp3")
-
-"""
