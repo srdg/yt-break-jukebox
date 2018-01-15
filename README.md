@@ -6,3 +6,8 @@
     * Build already added to repository as archive
     * Set path to ffmpeg with `setx /M PATH "path\to\ffmpeg\bin;%PATH%"`
 * Windows OS
+
+
+## Instructions
+
+Run `convertcodec.bat` (preferably as `Administrator` to avoid permission issues) to get started.
