@@ -7,8 +7,9 @@
     * Set path to ffmpeg with `setx /M PATH "path\to\ffmpeg\bin;%PATH%"`
 * OS
    * Windows
-   * Ubuntu 15.04 and above : Installation instructions *[here](http://ubuntuhandbook.org/index.php/2017/10/ffmpeg-3-4-released-install-ubuntu-16-04/)*
+   * Ubuntu 14.04 and above : Installation instructions *[here](http://ubuntuhandbook.org/index.php/2017/10/ffmpeg-3-4-released-install-ubuntu-16-04/)*
 
 ## Instructions
 
-Run `convertcodec.bat` (preferably as `Administrator` to avoid permission issues) to get started.
+* Run `convertcodec.bat` (preferably as `Administrator` to avoid permission issues) to get started in _Windows_
+* Run command `python3 audiocrop.py` in Terminal `Ctrl+Alt+T` to execute in _Ubuntu_
