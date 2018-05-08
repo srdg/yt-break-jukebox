@@ -7,7 +7,7 @@
     * Set path to ffmpeg with `setx /M PATH "path\to\ffmpeg\bin;%PATH%"`
 * OS
    * Windows
-   * Ubuntu 14.04 and above : Installation instructions *[here](http://ubuntuhandbook.org/index.php/2017/10/ffmpeg-3-4-released-install-ubuntu-16-04/)*
+   * Ubuntu 14.04 and above *[(Installation instructions)](http://ubuntuhandbook.org/index.php/2017/10/ffmpeg-3-4-released-install-ubuntu-16-04/)*
 
 ## Instructions
 
